@@ -1,6 +1,6 @@
 # UDP_0
 
-A simple Python-based UDP server implementation built to understand the fundamentals of connectionless networking. This project demonstrates how a UDP server listens for incoming datagrams, processes received messages, and stores them in a local SQLite database.
+A simple Python-based UDP server implementation built to understand the fundamentals of connectionless networking. This task demonstrates how a UDP server listens for incoming datagrams, processes received messages, and stores them in a local SQLite database.
 
 ## Objective
 
@@ -130,34 +130,6 @@ Message:
 Hello UDP!
 ```
 
----
-
-## Learning Outcomes
-
-Through this project, you'll gain an understanding of:
-
-* UDP socket programming
-* Connectionless communication
-* Client-server architecture
-* Database integration
-* Python project organization
-
----
-
-## Future Improvements
-
-* JSON message format
-* Custom codecs
-* Structured packet design
-* Logging system
-* Multi-client support
-* Configuration using environment variables
-* PostgreSQL integration
-* Docker support
-* Unit tests
-* Message acknowledgements (ACK)
-
----
 
 ## License
 
